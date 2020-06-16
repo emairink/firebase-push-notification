@@ -7,7 +7,7 @@ import android.widget.Toast
 import com.google.android.gms.tasks.OnCompleteListener
 import com.google.firebase.database.FirebaseDatabase
 import com.google.firebase.iid.FirebaseInstanceId
-import com.pktstudio.wheresj.R
+import com.yourpackagedomain.yourapplicationname.R
 
 class MainActivity : AppCompatActivity() {
 
